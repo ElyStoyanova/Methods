@@ -1,0 +1,13 @@
+C:\Users\estoy\source\repos\Methods\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.exe
+C:\Users\estoy\source\repos\Methods\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.deps.json
+C:\Users\estoy\source\repos\Methods\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.json
+C:\Users\estoy\source\repos\Methods\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.dev.json
+C:\Users\estoy\source\repos\Methods\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.dll
+C:\Users\estoy\source\repos\Methods\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.pdb
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfo.cs
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.dll
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.pdb
+C:\Users\estoy\source\repos\Methods\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.genruntimeconfig.cache
